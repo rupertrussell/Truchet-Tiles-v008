@@ -1,7 +1,7 @@
 // Truchet Tiles v008
 // 25 August 2018
 // rupert russell
-// artwork available on redbubble at: 
+// artwork available on redbubble at: https://www.redbubble.com/people/rupertrussell/works/33491696-truchet-tiles-v008-red-and-black
 // https://en.wikipedia.org/wiki/Truchet_tiles
 
 int tileSize = 385;
